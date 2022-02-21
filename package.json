@@ -1,5 +1,5 @@
 {
-  "name": "05_express",
+  "name": "fabrikam",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -7,9 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "219031_Arti Rathore",
-  "license": "ISC",
   "dependencies": {
     "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
   }
 }
